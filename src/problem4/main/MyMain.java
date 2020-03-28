@@ -41,6 +41,5 @@ public class MyMain {
             i++;
         }
         System.out.println("Key --> " + arrayList.get(i) + " Not available");
-
     }
 }
